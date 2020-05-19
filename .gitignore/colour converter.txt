@@ -1,0 +1,4 @@
+define variables for selectors and options
+conditional statement to check which options are selected
+perform either rgb to hex or vice versa calc
+output to background and text
